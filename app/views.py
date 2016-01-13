@@ -53,7 +53,7 @@ def sendmail():
                              subject,
                              msg)
     username = 'cmclaren89@gmail.com'
-    password = 'jymgysjupxeudefs'
+    password = 'uwdaqbgqxdmhbdzo'
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.starttls()
     server.login(username,password)
